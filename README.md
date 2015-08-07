@@ -1,6 +1,4 @@
 #One month rails
 
-this is the pinteresting sample application for 
-[*One month rails*](http://onemonthrails.com)
-
-by[*mattan griffin*](http://mattangriffin.com)
+Good morning world. If you've never been to the tech game, click here now.
+[ThetechGame](http://thetechgame.com)
